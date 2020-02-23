@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.exe.config
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.Form1.resources
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.Properties.Resources.resources
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.exe
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.pdb
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.exe
+C:\Users\User\Desktop\Encuesta\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.pdb
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.exe.config
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.exe
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.pdb
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.exe
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\bin\Debug\TestPersonalidad.pdb
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.Form1.resources
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.Properties.Resources.resources
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\TestPersonalidad.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Encuesta personalidad\TestPersonalidad\TestPersonalidad\obj\Debug\F2.Form2.resources
